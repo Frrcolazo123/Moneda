@@ -8,7 +8,7 @@ En este link se encuentra la consigna completa: [text](https://drive.google.com/
 
 1. Clona el repositorio:
 
-git clone [text](https://github.com/Frrcolazo123/Moneda.git)
+git clone https://github.com/Frrcolazo123/Moneda.git
 
 
 2. Instala las dependencias:
