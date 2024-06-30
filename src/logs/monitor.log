@@ -1,0 +1,105 @@
+2024-06-29 08:46:47,816 - INFO - Conexion a la base de datos establecida
+2024-06-29 08:46:48,306 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 08:46:48,344 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 09:02:37,253 - INFO - Conexion a la base de datos establecida
+2024-06-29 09:02:37,649 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 09:02:37,694 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 09:18:39,756 - INFO - Conexion a la base de datos establecida
+2024-06-29 09:18:40,191 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 09:18:40,196 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 09:19:02,654 - INFO - Conexion a la base de datos establecida
+2024-06-29 09:19:02,944 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 09:19:02,947 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 09:53:39,025 - INFO - Conexion a la base de datos establecida
+2024-06-29 09:53:39,427 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 09:53:39,430 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 11:13:22,694 - INFO - Conexion a la base de datos establecida
+2024-06-29 11:13:23,076 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 11:13:23,081 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-29 11:15:47,068 - INFO - Conexion a la base de datos establecida
+2024-06-29 11:15:47,323 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-29 11:15:47,328 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-29
+2024-06-30 08:21:40,751 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:21:41,216 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:21:41,217 - ERROR - Error al insertar el tipo de cambio: function takes at most 2 arguments (3 given)
+2024-06-30 08:22:14,726 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:22:15,098 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:22:15,099 - ERROR - Error al insertar el tipo de cambio: function takes at most 2 arguments (3 given)
+2024-06-30 08:24:14,687 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:24:14,955 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:24:14,963 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:24:58,358 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:24:58,775 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:24:58,779 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:25:12,321 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:25:12,594 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:25:12,598 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:29:54,866 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:29:55,324 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:29:55,330 - INFO - La tabla currency fue creada en la base de datos si no existe
+2024-06-30 08:29:55,332 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:30:37,290 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:30:37,665 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:30:37,716 - INFO - La tabla currency fue creada en la base de datos si no existe
+2024-06-30 08:30:37,719 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:33:39,088 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:33:39,524 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:33:39,543 - INFO - La tabla currency fue creada en la base de datos si no existe
+2024-06-30 08:33:39,545 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:47:00,764 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:47:01,950 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:47:01,957 - INFO - La tabla currency fue creada en la base de datos si no existe
+2024-06-30 08:47:01,964 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 08:47:19,258 - INFO - Conexion a la base de datos establecida
+2024-06-30 08:47:19,940 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 08:47:19,945 - INFO - La tabla currency fue creada en la base de datos si no existe
+2024-06-30 08:47:19,948 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:06:14,565 - INFO - La base de datos cambio ya existe.
+2024-06-30 09:06:14,607 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:06:15,388 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:06:15,397 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:06:15,404 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:13:05,801 - INFO - La base de datos 'nueva' ha sido creada.
+2024-06-30 09:13:05,802 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:13:06,696 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:13:06,742 - ERROR - Error al insertar el tipo de cambio: 'Database' object has no attribute 'conn'
+2024-06-30 09:17:49,472 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:17:50,282 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:17:50,295 - ERROR - Error al insertar el tipo de cambio: no existe la relación «currency»
+LINE 1: INSERT INTO currency (fromcurrency, tocurrency, total_value,...
+                    ^
+
+2024-06-30 09:19:30,666 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:19:31,354 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:19:31,380 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:19:31,385 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:20:43,650 - INFO - La base de datos 'Cambio_USD_MX' ha sido creada.
+2024-06-30 09:29:38,360 - INFO - La base de datos 'abc' ha sido creada.
+2024-06-30 09:29:38,406 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:29:39,362 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:29:39,369 - ERROR - Error al insertar el tipo de cambio: no existe la relación «currency»
+LINE 1: INSERT INTO currency (fromcurrency, tocurrency, total_value,...
+                    ^
+
+2024-06-30 09:30:11,450 - INFO - La base de datos 'abc' ya existe.
+2024-06-30 09:30:11,489 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:30:12,263 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:30:12,278 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:30:12,280 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:31:29,405 - INFO - La base de datos 'camioMoneda' ha sido creada.
+2024-06-30 09:32:08,928 - INFO - La base de datos 'camioMoneda' ha sido creada.
+2024-06-30 09:32:56,397 - INFO - La base de datos 'moneda' ha sido creada.
+2024-06-30 09:32:56,551 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:32:57,366 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:32:57,383 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:32:57,385 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:40:14,383 - INFO - La base de datos 'moneda' ya existe.
+2024-06-30 09:40:14,428 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:40:15,177 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:40:15,184 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:40:15,193 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30
+2024-06-30 09:45:57,396 - INFO - La base de datos 'moneda' ya existe.
+2024-06-30 09:45:57,439 - INFO - Conexión a la base de datos establecida
+2024-06-30 09:45:58,272 - INFO - Tipo de cambio obtenido: 18.339
+2024-06-30 09:45:58,280 - INFO - La tabla 'currency' fue creada en la base de datos si no existía
+2024-06-30 09:45:58,288 - INFO - Tipo de cambio insertado: USD a MXN, valor: 18.339, fecha: 2024-06-30

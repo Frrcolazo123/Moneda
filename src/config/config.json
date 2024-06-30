@@ -1,0 +1,7 @@
+{   "database": {
+    "host": "localhost",
+    "port": 5432,
+    "dbname": "moneda",
+    "user": "postgres",
+    "password": "fernando"},
+"url": "https://www.exchange-rates.org/es/conversor/usd-mxn"}
