@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mi_utilidad
+Version: 0.1
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: psycopg2-binary
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-mock; extra == "dev"

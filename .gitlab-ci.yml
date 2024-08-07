@@ -1,0 +1,10 @@
+stages:
+  - build
+
+build_package:
+  stage: build
+  script:
+    - ./build_wheel.sh
+  artifacts:
+    paths:
+      - dist/*.whl
